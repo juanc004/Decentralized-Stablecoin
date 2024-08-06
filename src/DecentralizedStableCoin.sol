@@ -7,7 +7,6 @@ import {ERC20Burnable, ERC20} from "@openzeppelin/contracts/token/ERC20/extensio
 import {Ownable} from "@openzeppelin/contracts/access/Ownable.sol";
 
 /**
- * @author  Juan C
  * @title   Decentralized Stable Coin
  * This is a contract meant to be governed by DSCEngine. This contract is just the ERC20
  * implementation of our stablecoin system.
